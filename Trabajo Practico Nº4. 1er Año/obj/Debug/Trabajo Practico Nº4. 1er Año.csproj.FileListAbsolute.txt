@@ -1,0 +1,11 @@
+D:\Archivos de Programa\Proyectos C# para GITHUB\Trabajo Practico Nº4. 1er Año\Trabajo Practico Nº4. 1er Año\bin\Debug\Trabajo Practico Nº4. 1er Año.exe.config
+D:\Archivos de Programa\Proyectos C# para GITHUB\Trabajo Practico Nº4. 1er Año\Trabajo Practico Nº4. 1er Año\bin\Debug\Trabajo Practico Nº4. 1er Año.exe
+D:\Archivos de Programa\Proyectos C# para GITHUB\Trabajo Practico Nº4. 1er Año\Trabajo Practico Nº4. 1er Año\bin\Debug\Trabajo Practico Nº4. 1er Año.pdb
+D:\Archivos de Programa\Proyectos C# para GITHUB\Trabajo Practico Nº4. 1er Año\Trabajo Practico Nº4. 1er Año\obj\Debug\Trabajo Practico Nº4. 1er Año.csproj.AssemblyReference.cache
+D:\Archivos de Programa\Proyectos C# para GITHUB\Trabajo Practico Nº4. 1er Año\Trabajo Practico Nº4. 1er Año\obj\Debug\Trabajo Practico Nº4. 1er Año.csproj.SuggestedBindingRedirects.cache
+D:\Archivos de Programa\Proyectos C# para GITHUB\Trabajo Practico Nº4. 1er Año\Trabajo Practico Nº4. 1er Año\obj\Debug\Trabajo_Practico_Nº4._1er_Año.Form1.resources
+D:\Archivos de Programa\Proyectos C# para GITHUB\Trabajo Practico Nº4. 1er Año\Trabajo Practico Nº4. 1er Año\obj\Debug\Trabajo_Practico_Nº4._1er_Año.Properties.Resources.resources
+D:\Archivos de Programa\Proyectos C# para GITHUB\Trabajo Practico Nº4. 1er Año\Trabajo Practico Nº4. 1er Año\obj\Debug\Trabajo Practico Nº4. 1er Año.csproj.GenerateResource.cache
+D:\Archivos de Programa\Proyectos C# para GITHUB\Trabajo Practico Nº4. 1er Año\Trabajo Practico Nº4. 1er Año\obj\Debug\Trabajo Practico Nº4. 1er Año.csproj.CoreCompileInputs.cache
+D:\Archivos de Programa\Proyectos C# para GITHUB\Trabajo Practico Nº4. 1er Año\Trabajo Practico Nº4. 1er Año\obj\Debug\Trabajo Practico Nº4. 1er Año.exe
+D:\Archivos de Programa\Proyectos C# para GITHUB\Trabajo Practico Nº4. 1er Año\Trabajo Practico Nº4. 1er Año\obj\Debug\Trabajo Practico Nº4. 1er Año.pdb
